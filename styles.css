@@ -1,0 +1,14 @@
+.title,
+.links {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    font-size: 60px;
+    text-align: center;
+    background-color: rgb(231, 59, 59);
+}
+
+.links {
+    font-size: 25px;
+}
