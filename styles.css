@@ -12,3 +12,8 @@
 .links {
     font-size: 25px;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}
