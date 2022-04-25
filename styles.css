@@ -17,3 +17,13 @@ img {
     height: auto;
     width: 400px;
 }
+
+.body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
